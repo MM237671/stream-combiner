@@ -2,6 +2,8 @@
 
 <img src=https://secure.travis-ci.org/dominictarr/stream-combiner.png?branch=master>
 
+[![browser support](https://ci.testling.com/dominictarr/stream-combiner.png)](https://ci.testling.com/dominictarr/stream-combiner)
+
 ## Combine (stream1,...,streamN)
 
 Turn a pipeline into a single stream. `pipeline` returns a stream that writes to the first stream
